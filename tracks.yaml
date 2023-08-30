@@ -23,5 +23,5 @@ tracks:
     release_tag: :{version}
     ros_distro: humble
     vcs_type: git
-    vcs_uri: https://github.com/micro-ROS/micro-ROS-Agent.git
+    vcs_uri: https://github.com/clearpathrobotics/micro-ROS-Agent.git
     version: :{auto}
