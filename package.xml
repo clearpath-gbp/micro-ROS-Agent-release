@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>micro_ros_agent</name>
-  <version>3.0.6</version>
+  <version>3.0.7</version>
   <description>micro-ROS Agent package</description>
   <maintainer email="pablogarrido@eprosima.com">Pablo Garrido</maintainer>
   <maintainer email="antoniocuadros@eprosima.com">Antonio Cuadros</maintainer>
@@ -20,6 +20,7 @@
   <depend>rmw_fastrtps_shared_cpp</depend>
   <depend>rmw_dds_common</depend>
   <depend>micro_ros_msgs</depend>
+  <depend>spdlog</depend>
 
   <test_depend>rosidl_typesupport_fastrtps_cpp</test_depend>
   <test_depend>ament_cmake_gtest</test_depend>
