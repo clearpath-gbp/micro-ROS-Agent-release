@@ -1,3 +1,26 @@
+## micro_ros_agent (jazzy) - 5.0.3-1
+
+The packages in the `micro_ros_agent` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release micro_ros_agent -r jazzy -t jazzy` on `Thu, 16 Jan 2025 23:18:55 -0000`
+
+The `micro_ros_agent` package was released.
+
+Version of package(s) in repository `micro_ros_agent`:
+
+- upstream repository: https://github.com/clearpathrobotics/micro-ROS-Agent.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `5.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## micro_ros_agent (humble) - 3.0.7-1
 
 The packages in the `micro_ros_agent` repository were released into the `humble` distro by running `/usr/bin/bloom-release micro_ros_agent -r humble -t humble` on `Wed, 30 Aug 2023 16:42:10 -0000`
