@@ -2,29 +2,36 @@
 Changelog for package micro-ros_agent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.0.7 (2023-08-30)
+5.0.3 (2025-01-16)
 ------------------
 * Added spdlog as dep.
-* Contributors: Tony Baltovski
-
-3.0.6 (2023-08-30)
-------------------
 * Fix superbuild install permission errors
-* Contributors: Błażej Sowa
+* Contributors: Błażej Sowa, Tony Baltovski
 
-3.0.5 (2023-06-06)
+5.0.2 (2024-05-31)
 ------------------
+* Jazzy Release
+* Bump Micro XRCE-DDS Agent (`#226 <https://github.com/micro-ROS/micro-ROS-Agent/issues/226>`_)
 
-3.0.4 (2022-09-28)
+5.0.1 (2024-01-29)
 ------------------
-* Fix Datawriter destruction (`#169 <https://github.com/micro-ROS/micro-ROS-Agent/issues/169>`_)
-* Synchronise predicate (`#160 <https://github.com/micro-ROS/micro-ROS-Agent/issues/160>`_)
+* Fix thread include (`#216 <https://github.com/micro-ROS/micro-ROS-Agent/issues/216>`_) (`#218 <https://github.com/micro-ROS/micro-ROS-Agent/issues/218>`_)
 
-3.0.3 (2022-06-13)
+5.0.0 (2023-06-06)
 ------------------
-* Fix memory leak in graph manager (`#147 <https://github.com/micro-ROS/micro-ROS-Agent/issues/147>`_)
+* Add empty type key hash to GraphCache (`#189 <https://github.com/micro-ROS/micro-ROS-Agent/issues/189>`_)
+* Contributors: Antonio Cuadros
 
-3.0.2 (2022-05-25)
+4.0.2 (2022-09-28)
+------------------
+* Fix Datawriter destruction (`#169 <https://github.com/micro-ROS/micro-ROS-Agent/issues/169>`_) (`#170 <https://github.com/micro-ROS/micro-ROS-Agent/issues/170>`_)
+* Synchronise predicate (`#160 <https://github.com/micro-ROS/micro-ROS-Agent/issues/160>`_) (`#165 <https://github.com/micro-ROS/micro-ROS-Agent/issues/165>`_)
+
+4.0.1 (2022-06-13)
+------------------
+* Fix memory leak in graph manager (`#147 <https://github.com/micro-ROS/micro-ROS-Agent/issues/147>`_) (`#148 <https://github.com/micro-ROS/micro-ROS-Agent/issues/148>`_)
+
+4.0.0 (2022-05-25)
 ------------------
 
 3.0.1 (2022-03-25)
